@@ -1,4 +1,3 @@
-.gitignore
 __pycache__/
 *.pyc
 .env
@@ -7,3 +6,4 @@ models/
 *.bin
 chroma_db/
 redis_data/
+venv/

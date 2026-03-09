@@ -1,0 +1,29 @@
+{
+  "models": {
+    "default": "qwen2.5:7b",
+    "reasoning": "deepseek-r1:7b",
+    "vision": "minicpm-v:2.6"
+  },
+  "ollama": {
+    "base_url": "http://127.0.0.1:11434"
+  },
+  "memory": {
+    "redis_host": "localhost",
+    "redis_port": 6379,
+    "chroma_path": "./chroma_db"
+  },
+  "characters": {
+    "turing": {
+      "name": "图灵",
+      "lang": "zh"
+    },
+    "deepseek": {
+      "name": "DeepSeek",
+      "lang": "zh"
+    },
+    "claude": {
+      "name": "Claude",
+      "lang": "en"
+    }
+  }
+}
