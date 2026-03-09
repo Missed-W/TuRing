@@ -1,0 +1,9 @@
+.gitignore
+__pycache__/
+*.pyc
+.env
+models/
+*.gguf
+*.bin
+chroma_db/
+redis_data/
