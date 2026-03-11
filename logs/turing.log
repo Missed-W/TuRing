@@ -24,3 +24,13 @@
 [2026-03-11 22:00:19,361] turing.ollama - INFO - Ollama模型卸载: qwen2.5:7b
 [2026-03-11 22:00:19,362] turing.ollama - INFO - Ollama模型就绪: deepseek-r1:7b
 [2026-03-11 22:00:19,362] turing.model_manager - INFO - 当前模型: deepseek
+[2026-03-11 22:04:05,370] turing.model_manager - INFO - ModelManager初始化完成
+[2026-03-11 22:04:05,371] turing.model_manager - INFO - 模型注册: qwen
+[2026-03-11 22:04:05,371] turing.model_manager - INFO - 模型注册: deepseek
+[2026-03-11 22:04:05,372] turing.ollama - INFO - Ollama模型就绪: qwen2.5:7b
+[2026-03-11 22:04:05,372] turing.model_manager - INFO - 当前模型: qwen
+[2026-03-11 22:04:05,373] turing.core - INFO - 图灵核心初始化完成
+[2026-03-11 22:05:53,662] turing.model_manager - INFO - 卸载当前模型: qwen
+[2026-03-11 22:05:53,662] turing.ollama - INFO - Ollama模型卸载: qwen2.5:7b
+[2026-03-11 22:05:53,663] turing.ollama - INFO - Ollama模型就绪: deepseek-r1:7b
+[2026-03-11 22:05:53,663] turing.model_manager - INFO - 当前模型: deepseek
